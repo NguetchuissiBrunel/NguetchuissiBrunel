@@ -1,44 +1,52 @@
 <div align="center">
-  
-  # ✨ Bienvenue sur le Profil de **Brunel Nguetchuissi** 👋
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Ingénieur+Logiciel+Full-Stack;Architecte+de+Solutions+Innovantes;Développeur+Python+%26+React;Je+Conçois,+Code+et+Déploie+l'Avenir..." alt="Typing Animation" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Nguetchuissi%20🤖&fontSize=90&animation=fadeIn)
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg?" alt="Contribution Snake" width="100%"/>
+</div>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Ingénieur+Logiciel+Full-Stack;Architecte+de+Solutions+Innovantes;Développeur+Python+%26+Nextjs;Je+m'amuse,+en+apprenant+le+code..." alt="Typing Animation" />
   
   <p>
-    Je suis un ingénieur logiciel passionné, spécialisé dans la transformation d'idées complexes en applications web. 🚀
+    Je suis un eleve ingénieur passionné, spécialisé dans la resolution de problemes complexes par l'informatique. 🚀
   </p>
   
   <p>
-    <a href="[LIEN_VERS_VOTRE_LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="[LIEN_VERS_VOTRE_PORTFOLIO_OU_SITE_WEB]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-    <a href="mailto:[VOTRE_EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="[]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="[]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:[landrybrunel5@gmail.com]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=NguetchuissiBrunel&color=blue&label=Profil+Visité" alt="Compteur de Vues" />
   
 </div>
 
+<div align="center">
+
+
 ---
+# <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%">
 
-## 🛠️ Ma Boîte à Outils (Tech Stack Magnifique)
-
-Une présentation des compétences avec des icônes larges et thématiques pour un impact visuel maximum.
+## 🛠️ Ma Boîte à Outils 
 
 <div align="center">
   
   <h3>Langages de Programmation & Frameworks</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,django,javascript,typescript,react,nextjs,nodejs,html,css" alt="Langages et Frameworks" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,react,nextjs,nodejs,html,css,react,java,spring,fastapi,tailwind," alt="Langages et Frameworks" />
   </p>
   
   <h3>Bases de Données & Outils Cloud/DevOps</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,aws,gcp,terraform,git,github,jenkins" alt="Bases de Données et Cloud" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github,vercel" alt="Bases de Données et Cloud" />
   </p>
 
-  <h3>Outils de Développement & Autres</h3>
+  <h3>Outils de Développement & SE </h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=vscode,vim,linux,figma,jira,slack,postman" alt="Outils de Développement" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux,ubuntu,windows,kali" alt="Outils de Développement" />
   </p>
   
 </div>
@@ -46,13 +54,19 @@ Une présentation des compétences avec des icônes larges et thématiques pour 
 ---
 
 ## 🚀 Réalisations & Statistiques GitHub
+<table>
+<tr>
+<td>
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="400px"></picture>
+</td>
+</tr>
+</table>
 
-Une section dense en informations, avec des cartes organisées pour une lecture fluide.
 
 <div align="center">
   
-  <h3>🏆 Mes Trophées GitHub (Encore plus de colonnes !)</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=NguetchuissiBrunel&theme=darkhub&column=6&no-bg=true" alt="Trophées GitHub" />
+  <h3>🏆 Mes Trophées GitHub</h3>
+ <img src="https://github-profile-trophy.vercel.app/?username=Delmat237&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophées" />
 
   <br/>
   
@@ -71,39 +85,6 @@ Une section dense en informations, avec des cartes organisées pour une lecture 
 
 ---
 
-## 🌌 Animations & Visualisations de Contributions
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-C'est ici que votre profil prend vie avec les mouvements !
-
-<div align="center">
-  
-  <h3>🐍 L'Évolution de mes Contributions (Snake Game)</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguetchuissiBrunel/NguetchuissiBrunel/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguetchuissiBrunel/NguetchuissiBrunel/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/NguetchuissiBrunel/NguetchuissiBrunel/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;" />
-  </picture>
-
-  <br/>
-  
-  <h3>🗓️ Graphe d'Activité Annuelle</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguetchuissiBrunel&theme=dracula&custom_title=Mon+Activité+sur+GitHub" alt="Activité Graph" />
-  
-  </div>
-
----
-
-## 🎯 Mon Univers Actuel
-
-* 🔭 **Actuellement** : Je suis immergé dans l'optimisation des **performances d'API avec Django REST Framework** et l'exploration de l'**architecture serverless sur AWS**.
-* 🌱 **En apprentissage continu** : J'approfondis **Go** pour les microservices et les bases de données **NoSQL** comme MongoDB.
-* 🤝 **Collaborations** : Je recherche des projets **Open Source stimulants** ou des opportunités de contribuer à des solutions innovantes.
-* 💬 **Mon expertise** : N'hésitez pas à me contacter pour toute question sur le **développement Full-Stack**, le **DevOps** ou l'**intégration continue**.
-* ⚡ **Fun fact** : Quand je ne code pas, je suis probablement en train d'explorer des sentiers de randonnée ou de jouer aux échecs !
-
-***
-
-<div align="center">
-  <p>Conçu avec passion et le pouvoir du code.</p>
-  <p>🚀 Merci de votre visite !</p>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=170&section=footer)
