@@ -70,12 +70,6 @@
 
   <br/>
   
-  <h3>📊 Statistiques Générales & Langages Favoris</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NguetchuissiBrunel&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=fr" alt="Statistiques GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguetchuissiBrunel&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
-  </p>
-
   <br/>
 
   <h3>🔥 Ma Série de Contributions (Streak)</h3>
